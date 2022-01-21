@@ -1,0 +1,6 @@
+{
+  "icons": [
+    { "src": "img/picmixy-192.jpeg", "type": "image/jpeg", "sizes": "192x192" },
+    { "src": "img/picmixy-512.jpeg", "type": "image/jpeg", "sizes": "512x512" }
+  ]
+}

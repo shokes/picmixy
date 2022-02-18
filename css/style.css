@@ -117,12 +117,13 @@ body {
   width: 40%;
   font-size: 2rem;
   margin-left: 4.6rem;
+  word-spacing: 0.4rem;
 
   margin-bottom: 2.4rem;
 }
 
 .container {
-  max-width: 120rem;
+  max-width: 100rem;
   margin: 0 auto;
 }
 
@@ -130,7 +131,6 @@ body {
 .btn:link,
 .btn:visited {
   display: inline-block;
-
   padding: 1.2rem 3.2rem;
   border-radius: 9px;
   text-decoration: none;
@@ -216,6 +216,8 @@ body {
 .porfolio-text-box {
   align-self: center;
   font-size: 1.8rem;
+  word-spacing: 0.5rem;
+  letter-spacing: 0.2rem;
 }
 
 .porfolio-image-box {
@@ -405,6 +407,10 @@ body {
 
 .about-text {
   margin-bottom: 2rem;
+  letter-spacing: 0.1rem;
+  word-spacing: 0.5rem;
+  font-weight: 400;
+  font-size: 1.5rem;
 }
 
 .social-links {
